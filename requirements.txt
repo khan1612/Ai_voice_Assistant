@@ -2,3 +2,4 @@ streamlit==1.48.0
 openai==1.99.0
 python-dotenv==1.0.1
 gTTS==2.5.4
+groq==0.13.0
